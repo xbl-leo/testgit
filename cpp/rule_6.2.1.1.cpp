@@ -13,7 +13,7 @@ private:
 };
 Fooa::Fooa(void)
 {
-	aa = gVara;   //not ok 1
+    aa = gVara;   //not ok 1
 }
 Fooa::~Fooa(void)
 {
